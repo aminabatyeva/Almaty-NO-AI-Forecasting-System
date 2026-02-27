@@ -1,5 +1,6 @@
  # Almaty-NO-AI-Forecasting-System
-🌍 Almaty NO₂ AI Forecasting System     AI-powered air quality forecasting platform for predicting NO₂ pollution in Almaty using sat# 🌍 Almaty NO₂ AI Forecasting System
+🌍 Almaty NO₂ AI Forecasting System     
+AI-powered air quality forecasting platform for predicting NO₂ pollution in Almaty using satellite observations and hybrid machine learning models
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![AI](https://img.shields.io/badge/AI-Hybrid%20Model-green)
